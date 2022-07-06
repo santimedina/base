@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Prueba1",
+        "author": "Santiago Medina12 ",
+        "genre": "genero no modificado",
+        "year": "probando7",
+        "cost": "edit prueba2",
+        "price": "precio modificado"
+    },
+    {
+        "id": 2,
+        "title": "Pru31",
+        "author": "Medina",
+        "genre": "Comedia",
+        "year": "1997",
+        "cost": "$200",
+        "price": "$5300"
+    },
+    {
+        "id": 3,
+        "title": "Probando",
+        "author": "Santi",
+        "genre": "Terror",
+        "year": "2004",
+        "cost": "100"
+    },
+    {
+        "id": 5,
+        "title": "Pru31",
+        "author": "Medina",
+        "genre": "Comedia",
+        "year": "1997",
+        "cost": "$200",
+        "price": "$530015"
+    }
+]
